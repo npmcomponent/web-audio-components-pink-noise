@@ -1,4 +1,4 @@
-var WhiteNoise = require('white-noise');
+var WhiteNoise = require('web-audio-components-white-noise');
 
 /**
  * Simple white noise generator, inspired by Nick Thompson's

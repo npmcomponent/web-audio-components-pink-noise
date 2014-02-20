@@ -1,0 +1,18 @@
+{
+  "name": "web-audio-components-pink-noise",
+  "description": "A simple pink noise generator",
+  "version": "0.0.2",
+  "keywords": [
+    "web-audio",
+    "generator",
+    "pink-noise",
+    "pink",
+    "noise",
+    "static",
+    "fuzz"
+  ],
+  "dependencies": {
+    "web-audio-components-white-noise": "git://github.com/npmcomponent/web-audio-components-white-noise.git"
+  },
+  "license": "MIT"
+}
